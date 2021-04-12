@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99066ba8_002D6f4b_002D4333_002D99df_002Da7f4db33fddb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="APIChallenges" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8386B4CD-ED17-4C9B-AC23-10B11516A779::.NETCoreApp,Version=v3.1::Challenge.APIChallenges&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bf1e37b9_002Db5da_002D4275_002Daff4_002Dcf7fe7716943/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstRealChallenge" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8386B4CD-ED17-4C9B-AC23-10B11516A779::.NETCoreApp,Version=v3.1::Challenge.APIChallenges.FirstRealChallenge&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8386B4CD-ED17-4C9B-AC23-10B11516A779::.NETCoreApp,Version=v3.1::Challenge.APIChallenges.HeadChallenge&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8386B4CD-ED17-4C9B-AC23-10B11516A779::.NETCoreApp,Version=v3.1::Challenge.APIChallenges.GetChallengeThree&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
